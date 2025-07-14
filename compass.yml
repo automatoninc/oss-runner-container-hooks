@@ -1,0 +1,16 @@
+name: oss-runner-container-hooks
+id: ari:cloud:compass:23484180-d1bd-4c45-839d-e8293813a060:component/718b2879-df9c-4359-9225-29d7119893bc/c90a6b67-374d-4b0b-8109-ca3cda4cf75e
+description: Runner Container Hooks for GitHub Actions
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/automatoninc/oss-runner-container-hooks
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
